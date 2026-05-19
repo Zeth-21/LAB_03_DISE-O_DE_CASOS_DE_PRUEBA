@@ -3,7 +3,7 @@
 ## 👨‍💻 Datos del Estudiante
 
 * **Nombre:** Yordi Ajeo Atao Huaman
-* **Curso:** Pruebas y Aseguramiento de Calidad
+* **Curso:** Pruebas y Aseguramiento de Calidad de Software
 * **Código:** 27222121
 
 ---
