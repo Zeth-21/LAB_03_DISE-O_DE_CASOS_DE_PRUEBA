@@ -19,12 +19,7 @@ Dominar el flujo de trabajo en equipo utilizando un repositorio remoto compartid
 
 ---
 
-## ⚙️ 2. Descripción de funcionalidades
-
-### 2.1 Funcionalidad de Login
-La funcionalidad de Login permite a los usuarios acceder de forma segura a sus cuentas personales o corporativas ingresando su correo electrónico (o apodo de usuario) y su contraseña registrada. El sistema procesa y valida las credenciales proporcionadas en la base de datos centralizada. Si los datos son correctos, concede el acceso al panel principal personalizado de Mercado Libre (**Home / Dashboard de Usuario**), donde el cliente puede gestionar sus compras, revisar el estado de sus envíos, responder preguntas de clientes, verificar sus ventas o acceder a Mercado Pago. En caso de que las credenciales sean incorrectas o no cumplan con el formato, el sistema bloquea el acceso de inmediato y muestra un mensaje de error específico en la interfaz, resguardando la seguridad de la cuenta.
----
-📋 3. Casos de Prueba (Google Sheets URLS)
+## 📋 2. Casos de Prueba (Google Sheets URLS)
 
 URL DEL GOOGLE SHEETS: https://docs.google.com/spreadsheets/d/1nJScXeIwBtXVN4cIlAWFNpPpAf1qyhmRB0SmMK34ZpY/edit?usp=sharing
 ---
